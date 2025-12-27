@@ -42,15 +42,15 @@ Dashboards update automatically based on input.
 Use the Class, Inventory, and Fees sheets to track school operations.
 
 ## File Structure
-Students — student details
-Teachers — teacher records
-Subjects — subject listings
-Class — class information
-Results — all student scores
-Attendance — attendance tracking
-Fees — fees tracking and calculations
-Inventory — school assets tracking
-Discipline — behavior tracking
-Club Activities — extra-curricular records
-Timetable — class schedule
-Dashboards — Results dashboard
+- Students — student details
+- Teachers — teacher records
+- Subjects — subject listings
+- Class — class information
+- Results — all student scores
+- Attendance — attendance tracking
+- Fees — fees tracking and calculations
+- Inventory — school assets tracking
+- Discipline — behavior tracking
+- Club Activities — extra-curricular records
+- Timetable — class schedule
+- Dashboards — Results dashboard
